@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/vivekkushwaha/Documents/Hackathon/gpu-sharing-network/contract/contracts/JobRegistry.sol": {
+      "lastModificationDate": 1759007180030,
+      "contentHash": "0e7ca48e3e122e32777d6e2f1d138bde",
+      "sourceName": "contracts/JobRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "JobRegistry"
+      ]
+    }
+  }
+}

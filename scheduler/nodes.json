@@ -1,0 +1,20 @@
+[
+  {
+    "nodeId": "598b6167-112b-44d7-874f-bcd79c319b4e",
+    "gpuName": null,
+    "gpuSpecs": "APPLE M3",
+    "owner": null,
+    "memoryAvailable": 8,
+    "status": "idle",
+    "active": true
+  },
+  {
+    "nodeId": "node-ywlbbrcc",
+    "gpuName": "Vivek PC 2",
+    "gpuSpecs": "Levono",
+    "owner": "0x6466FD18DA2c5B4A03d0403A6ec282d0974c828e",
+    "memoryAvailable": 24,
+    "status": "idle",
+    "active": true
+  }
+]
