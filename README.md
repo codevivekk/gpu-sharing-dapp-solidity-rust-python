@@ -100,6 +100,7 @@ Setup env file as per as .env.example
 
 ## Getting Started
 Setup env file as per as .env.example
+Set Up a Virtual Environment
 
 ```bash
 1) cd ./node-agent
